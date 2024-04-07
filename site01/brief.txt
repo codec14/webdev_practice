@@ -1,0 +1,8 @@
+Company Name:
+Frontier
+
+Company Description:
+We are a company that produces new ways to discover fun things to do by combining innovative software with a friendly face. Our main product is a device that you can use offline and implements years of scientific discovery. Our target audience is people who live alone. We want to convey a sense of nostalgia, while at the same time being calm.
+
+Job Description:
+You must create a website that will mainly spread brand awareness. The goal is to make the website easy to navigate. Besides the landing page, the website will need a information page, shop page and a privacy policy page. The landing page should have a About the Team section. There should be a call to action to get users to make a purchase. They would prefer a minimal design, and would like you to use the brand color, which is yellow. Take into account the client's preferences and values.
